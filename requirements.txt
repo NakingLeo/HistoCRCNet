@@ -1,0 +1,42 @@
+certifi @ file:///croot/certifi_1707229174982/work/certifi
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+contourpy @ file:///croot/contourpy_1700583582875/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+fonttools==4.25.0
+idna @ file:///croot/idna_1666125576474/work
+imageio==2.34.0
+kiwisolver @ file:///croot/kiwisolver_1672387140495/work
+kornia==0.7.2
+kornia_rs==0.1.3
+matplotlib @ file:///croot/matplotlib-suite_1698692105134/work
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+munkres==1.1.4
+networkx==3.3
+numpy==1.23.5
+opencv-python==4.9.0.80
+openslide-python==1.3.1
+packaging @ file:///croot/packaging_1710807400464/work
+Pillow==9.4.0
+ply==3.11
+pyparsing @ file:///opt/conda/conda-bld/pyparsing_1661452539315/work
+PyQt5==5.15.10
+PyQt5-sip @ file:///croot/pyqt-split_1698769088074/work/pyqt_sip
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+PyWavelets==1.6.0
+requests @ file:///croot/requests_1707355572290/work
+scikit-image==0.19.3
+scipy==1.10.1
+sip @ file:///croot/sip_1698675935381/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tifffile==2024.2.12
+tomli @ file:///opt/conda/conda-bld/tomli_1657175507142/work
+torch==1.12.1
+torch-staintools==1.0.4
+torchaudio==0.12.1
+torchvision==0.13.1
+tornado @ file:///croot/tornado_1696936946304/work
+tqdm==4.65.2
+typing_extensions @ file:///croot/typing_extensions_1705599297034/work
+urllib3 @ file:///croot/urllib3_1700840488771/work
